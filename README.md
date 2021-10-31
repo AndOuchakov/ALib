@@ -1,2 +1,2 @@
 # ALib
-Alternative libraru
+Alternative library
